@@ -1,1 +1,1 @@
-theme: jekyll-theme-cayman
+gem 'red', '~> 4.1', '>= 4.1.7'
